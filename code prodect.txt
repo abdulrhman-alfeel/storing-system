@@ -1,0 +1,14 @@
+"6be36d80-6b20-4a01-8411-dee0df36df1e",7
+"1a3dd455-ea62-40b9-8a83-e9b497cb3c69",30
+"438d5bd0-9265-4245-8f88-1577bcde5245",180
+"04508349-3eef-4a2b-accd-0c57c28fa9c5",360
+
+
+
+Source: "D:\ppp\aldy\python\Sorting\output\azure.tcl"; DestDir: "{app}"; Flags: ignoreversion
+Source: "D:\ppp\aldy\python\Sorting\output\assets\*"; DestDir: "{app}/assets"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "D:\ppp\aldy\python\Sorting\output\theme\*"; DestDir: "{app}/theme"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "D:\ppp\aldy\python\Sorting\output\wkhtmltopdf\*"; DestDir: "{app}/wkhtmltopdf"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "D:\ppp\aldy\python\Sorting\output\Library\*"; DestDir: "{app}/Library"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "D:\ppp\aldy\python\Sorting\output\share\*"; DestDir: "{app}/share"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "D:\ppp\aldy\python\Sorting\output\fount\*"; DestDir: "{app}/fount"; Flags: ignoreversion recursesubdirs createallsubdirs
